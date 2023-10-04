@@ -111,6 +111,19 @@ Cloud Security Podcast.TV
 - The Discord Announcements
 - https://terraform.cloudprojectbootcamp.com/
 
+### Preweek Checklist
+
+- AWS Account
+- Terraform Cloud Account
+- Github Account
+- Gitpod Account
+- Cloning the Github Project Template Repo
+- Configuration AWS CLI (in Gitpod)
+- Configuration Terraform Cloud (in Gitpod)
+- Get into the Discord (for Support and Graded Tiers)
+- **Finish Week-0 (Prep) in ExamPro**
+- **Finish Week-0 (Project Prep) in ExamPro**
+
 
 
 
