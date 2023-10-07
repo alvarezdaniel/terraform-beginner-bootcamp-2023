@@ -124,6 +124,18 @@ Cloud Security Podcast.TV
 - **Finish Week-0 (Prep) in ExamPro**
 - **Finish Week-0 (Project Prep) in ExamPro**
 
+### Terratowns diagram
+
+- https://discord.com/channels/1138488133558730883/1147957065306882159
+
+- https://lucid.app/lucidchart/e3f15b1a-2211-4ddb-8c95-f144c2504db4/edit?invitationId=inv_0873b3c6-c652-463f-9f2b-fa0f1b420823&page=0_0#
+
+### AWS Account
+
+### Gitpod vs Jumppad
+
+
+
 
 
 
